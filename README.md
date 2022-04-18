@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RCAutomatizacion
+- 👀 I’m interested in Industrial Automation and WEB Development (MERN Stack)
+- 🌱 I’m currently learning deeply about MERN Stack
+- 💞️ I’m looking to collaborate on SCADA in WEB enviroment solutions
+- 📫 You can reach to me via email or linkedin: rafael.curielmorillo@gmail.com | https://www.linkedin.com/in/rafael-curiel-5403b4186/
